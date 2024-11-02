@@ -19,7 +19,7 @@ Task Manager is a simple yet efficient task management system designed to demons
 ### Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/TaskManager.git
+git clone https://github.com/JuliusScheuerer/SQ-Exercise04.git
 ```
 
 2. Navigate to project directory
