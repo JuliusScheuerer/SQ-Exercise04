@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: 2024 [Julius Scheuerer]
+ * SPDX-License-Identifier: MIT
+ */
+
 package taskmanager.model;
 
 import java.time.LocalDateTime;

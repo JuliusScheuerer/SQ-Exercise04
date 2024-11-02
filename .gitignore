@@ -23,7 +23,7 @@ bin/
 !**/src/test/**/bin/
 
 ### Eclipse ###
-.apt_generated
+.apt_generate
 .classpath
 .factorypath
 .project

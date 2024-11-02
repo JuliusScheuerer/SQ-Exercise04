@@ -1,3 +1,8 @@
+/*
+ * SPDX-FileCopyrightText: 2024 [Julius Scheuerer]
+ * SPDX-License-Identifier: MIT
+ */
+
 package taskmanager.service;
 
 import taskmanager.model.Task;

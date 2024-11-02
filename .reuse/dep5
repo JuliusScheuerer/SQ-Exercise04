@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: TaskManager
+Upstream-Contact: [Julius Scheuerer] <jscheue1@smail.uni-koeln.de>
+Source: https://github.com/JuliusScheuerer/SQ-Exercise04
+
+Files: *
+Copyright: 2024 [Julius Scheuerer]
+License: MIT
