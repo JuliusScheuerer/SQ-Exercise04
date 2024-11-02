@@ -69,9 +69,9 @@ If you use this project as part of your academic work, please cite it as:
 
 ```
 TaskManager - A Java-based Task Management System
-[Your Name]
+[Julius Scheuerer]
 University of Cologne, 2024
-https://github.com/YOUR-USERNAME/TaskManager
+https://github.com/JuliusScheuerer/SQ-Exercise04
 ```
 
 ## License
